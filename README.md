@@ -40,7 +40,7 @@ Here is a list of papers that propose methods for learning meta embeddings. Wher
 
 * Cong Bao and Danushka Bollegala: *Learning Word Meta-Embeddings by Autoencoding* Proc. of the 27th International Conference on Computational Linguistics (COLING), pp. 1650-1661, 2018. [[PDF]](http://danushka.net/papers/aeme.pdf) [[CODE]](https://github.com/LivNLP/AEME)
 
-* Danushka Bollegala, Kohei Hayashi and Ken-ichi Kawarabayashi: Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words, Proc. of International Joint Conference in Artificial Intelligence and European Conference on Artificial Intelligence (IJCAI-ECAI), pp. 3970-3976, 2018. [[PDF]](https://www.ijcai.org/proceedings/2018/0552.pdf) [[CODE]](https://github.com/LivNLP/LLE-MetaEmbed)
+* Danushka Bollegala, Kohei Hayashi and Ken-ichi Kawarabayashi: Think Globally, Embed Locally -- Locally Linear Meta-Embedding of Words, Proc. of International Joint Conference in Artificial Intelligence and European Conference on Artificial Intelligence (IJCAI-ECAI), pp. 3970-3976, 2018. [[PDF]](https://www.ijcai.org/proceedings/2018/0552.pdf) [[CODE]](https://github.com/LivNLP/LLE-MetaEmbed) [[meta-embeddings]](https://www.dropbox.com/s/xykbg65l3ir3rcj/glove%2Bsg%2BME.zip?dl=0)
 
 * Joshua Coates and Danushka Bollegala: *Frustratingly Easy Meta-Embedding -- Computing Meta-Embeddings by Averaging Source Word Embeddings* Proc. of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), pp. 194-198, 2018. [[PDF]](http://aclweb.org/anthology/N18-2031)
 
