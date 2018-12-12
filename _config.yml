@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+
+title:        Meta Embedding Learning
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Danushka Bollegala
+  url:        https://danushka.net
